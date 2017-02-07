@@ -39,7 +39,7 @@
        width="1"
        height="1"
        inkscape:menu-tooltip="Remove white line between adjacent edges"
-       inkscape:menu="ABCs"
+       inkscape:menu="Fix"
        inkscape:label="Stitch together"
        style="color-interpolation-filters:sRGB">
       <feColorMatrix
