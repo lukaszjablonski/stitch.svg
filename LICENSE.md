@@ -1,7 +1,7 @@
 ## License
 Distributed under MIT License
 
-Copyright (c) 2008 Ivan Louette
+Copyright (c) 2008 Ivan Louette, 2017 Lukasz Jablonski
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
