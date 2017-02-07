@@ -5,35 +5,18 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1122.5197"
-   height="793.70081"
-   id="svg2"
+   id="svg"
    version="1.1"
    inkscape:version="0.92.0 r15299"
    sodipodi:docname="stitch.svg">
   <defs
-     id="defs4">
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="149"
-       height="161"
-       patternTransform="translate(316,716.36218)"
-       id="pattern3838">
-      <image
-         y="-1.1368684e-13"
-         x="0"
-         id="image9"
-         height="161"
-         width="149"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJUAAAChCAYAAADOSf30AAAABHNCSVQICAgIfAhkiAAAAbRJREFU eJzt0kENwCAAwEDAKKIRxEw0IVnuFPTRefa+A0LrdQD/YypypiJnKnKmImcqcqYiZypypiJnKnKm ImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJn KnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypy piJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYi ZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcq cqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKm ImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJn KnKmImcqcqYiZypypiJnKnKmImcqcqYiZypypiJnKnIf83ED0i+mVCsAAAAASUVORK5CYII= " />
-    </pattern>
+     id="defs">
     <filter
-       id="filter4561"
+       id="filterStitch_svg"
        x="0"
        y="0"
        width="1"
@@ -43,45 +26,21 @@
        inkscape:label="Stitch together"
        style="color-interpolation-filters:sRGB">
       <feColorMatrix
-         id="feColorMatrix4563"
+         id="feColorMatrixStitch_svg"
          values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.8 0 " />
     </filter>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="350.68109"
-     inkscape:cy="372.04724"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="-8"
-     inkscape:window-y="1016"
-     inkscape:window-maximized="1" />
+
   <metadata
-     id="metadata7">
+     id="metadata">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>stitch.svg</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Calque 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-328.81888)"
-     style="enable-background:new" />
 </svg>
