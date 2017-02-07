@@ -1,6 +1,6 @@
 # stitch.svg
 
-SVG filter that removes white line between adjacent edges.
+SVG filter that removes empty space between adjacent edges.
 
 Copy `stitch.svg` to `~/.config/inkscape/filters/` (Linux/OS X) or `%AppData%/inkscape/filters/` (Windows).
 
