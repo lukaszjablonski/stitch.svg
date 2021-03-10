@@ -1,6 +1,6 @@
 # The MIT License (MIT)
 
-Copyright (c) 2008 Ivan Louette
+Copyright (c) 2008 Ivan Louette  
 Copyright (c) 2017 Lukasz Jablonski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
