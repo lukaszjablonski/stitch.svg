@@ -40,6 +40,8 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>stitch.svg</dc:title>
+        <cc:license
+           rdf:resource="https://github.com/lukaszjablonski/stitch.svg/blob/master/LICENSE.md" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
